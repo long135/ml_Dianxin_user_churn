@@ -15,7 +15,7 @@
 
     数据预处理、可视化分析、特征工程、模型预测、模型评估、分析与决策。
 
-![D:/pythonProject/data/pic01.png](./data/pic01.png)
+
 ![pic01](https://github.com/long135/ml_Dianxin_user_churn/assets/92348565/a6683982-6e30-4672-9489-3c3cf736c4ee)
 
 
@@ -187,7 +187,8 @@
     箱型图（box-plot)，又称为箱线图，盒型图，盒须图。在数据探索阶段或者描述性分析过程中，我们常常用于展示多类连续型数据的数值分布情况，便于类间对比和快速识别异常值。
     在一幅箱型图中，一个连续数值序列构成一个盒子，如下所示。
 
-![./data/pic02.png](./data/pic02.png)
+
+![pic02](https://github.com/long135/ml_Dianxin_user_churn/assets/92348565/57df88ec-6e6d-4ca3-b205-a1bc97fb37e0)
 
     每一个盒子主要展示的是数据的上四分位数Q1(25%)，中位数（50%)，下四分位数Q3（75%)。划分异常值的界限我们称为上下极限，其离Q1,Q3分别是1.5IQR（IQR=Q3-Q1，称作四分位距）的距离，在上下极限之外的点，我们称为异常点。异常值在不同场景中受到不同的重视.
 
@@ -206,7 +207,8 @@ SMOTE（Synthetic Minority Oversampling Technique），合成少数类过采样�
 
 
 
-![image-5.png](./data/smote.png)
+
+<img width="747" alt="smote" src="https://github.com/long135/ml_Dianxin_user_churn/assets/92348565/1a39f45e-7b85-487a-b75b-b2b75c92f79a">
 
 
 # 分析与决策
