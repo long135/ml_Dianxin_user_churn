@@ -15,7 +15,8 @@
 
     数据预处理、可视化分析、特征工程、模型预测、模型评估、分析与决策。
 
-![D:/pythonProject/data/pic01.png]('./data/pic01.png')
+![D:/pythonProject/data/pic01.png](./data/pic01.png)
+![pic01](https://github.com/long135/ml_Dianxin_user_churn/assets/92348565/a6683982-6e30-4672-9489-3c3cf736c4ee)
 
 
 ## 数据字段介绍
