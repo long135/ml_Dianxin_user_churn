@@ -15,7 +15,7 @@
 
     数据预处理、可视化分析、特征工程、模型预测、模型评估、分析与决策。
 
-![D:/pythonProject/data/pic01.png](./data/pic01.png)
+![D:/pythonProject/data/pic01.png]('./data/pic01.png')
 
 
 ## 数据字段介绍
